@@ -29,9 +29,9 @@
 
 ## Be Prepared
 
-* Cashed offline maps of locations
+* Cached offline maps of locations
 * Water
 
-## International Extras
+## International Extras
 
 * Converter wall plugs

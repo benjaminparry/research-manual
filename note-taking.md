@@ -36,7 +36,7 @@ Example:
 
 Timestamps can be created in various ways. My preferred method is to create them digitally using a text expander, I use aText for Mac.
 
-**Checklist Warning:** Ensure all individual recording devices are synced to the same time ahead of the interview.
+Checklist Warning: Ensure all individual recording devices are synced to the same time ahead of the interview.
 
 Note: This format works well when you can match both timestamps and positions in the recording i.e. a video with a timestamp, but less helpful with audio recordings. To match timestamps to the positions in audio recording you could in theory use the audio file’s created/modified metadata.
 
